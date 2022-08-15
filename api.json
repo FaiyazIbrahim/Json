@@ -1,32 +1,27 @@
 [
   {
     "id": 1,
-    "name": "Dhaka University",
-    "email": "Sincere@april.biz",
-    "website": "hildegard.org"
+    "name": "University of Dhaka",
+    "website": "www.du.ac.bd"
   },
   {
     "id": 2,
-    "name": "North South University",
-    "email": "Sincere@april.biz",
-    "website": "hildegard.org"
+    "name": "University of Rajshahi",
+    "website": "www.ru.ac.bd"
   },
   {
     "id": 3,
-    "name": "Leanne Graham",
-    "email": "Sincere@april.biz",
-    "website": "hildegard.org"
+    "name": "Bangladesh Agricultural University",
+    "website": "www.bau.edu.bd"
   },
   {
     "id": 4,
-    "name": "Leanne Graham",
-    "email": "Sincere@april.biz",
-    "website": "hildegard.org"
+    "name": "Bangladesh University of Engineering & Technology",
+    "website": "www.buet.ac.bd"
   },
   {
     "id": 5,
-    "name": "Leanne Graham",
-    "email": "Sincere@april.biz",
-    "website": "hildegard.org"
+    "name": "University of Chittagong",
+    "website": "www.cu.ac.bd"
   }
 ]
